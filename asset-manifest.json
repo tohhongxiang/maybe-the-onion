@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/maybe-the-onion/static/css/main.cda36a3e.chunk.css",
+    "main.js": "/maybe-the-onion/static/js/main.4c365dcb.chunk.js",
+    "main.js.map": "/maybe-the-onion/static/js/main.4c365dcb.chunk.js.map",
+    "runtime-main.js": "/maybe-the-onion/static/js/runtime-main.5f29a409.js",
+    "runtime-main.js.map": "/maybe-the-onion/static/js/runtime-main.5f29a409.js.map",
+    "static/js/2.414c1403.chunk.js": "/maybe-the-onion/static/js/2.414c1403.chunk.js",
+    "static/js/2.414c1403.chunk.js.map": "/maybe-the-onion/static/js/2.414c1403.chunk.js.map",
+    "index.html": "/maybe-the-onion/index.html",
+    "precache-manifest.558922196ee6ab331133ab7c752a9e72.js": "/maybe-the-onion/precache-manifest.558922196ee6ab331133ab7c752a9e72.js",
+    "service-worker.js": "/maybe-the-onion/service-worker.js",
+    "static/css/main.cda36a3e.chunk.css.map": "/maybe-the-onion/static/css/main.cda36a3e.chunk.css.map",
+    "static/js/2.414c1403.chunk.js.LICENSE.txt": "/maybe-the-onion/static/js/2.414c1403.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5f29a409.js",
+    "static/js/2.414c1403.chunk.js",
+    "static/css/main.cda36a3e.chunk.css",
+    "static/js/main.4c365dcb.chunk.js"
+  ]
+}
