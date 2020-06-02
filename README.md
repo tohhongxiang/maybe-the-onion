@@ -1,5 +1,5 @@
 # Maybe the onion
-Based off [this r/crazyIdea](https://www.reddit.com/r/CrazyIdeas/comments/gts99n/there_should_be_a_sub_like_5050_but_instead_its/) post, and [r/maybetheonion](https://www.reddit.com/r/maybetheonion/)
+Based off [this r/crazyIdea](https://www.reddit.com/r/CrazyIdeas/comments/gts99n/there_should_be_a_sub_like_5050_but_instead_its/) post, and [r/maybetheonion](https://www.reddit.com/r/maybetheonion/). Demo [here](https://tohhongxiang123.github.io/maybe-the-onion)
 
 # Development
 - After cloning and cd-ing into the repository files
